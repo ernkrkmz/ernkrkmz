@@ -15,7 +15,9 @@
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **ernkrkmz/ernkrkmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
