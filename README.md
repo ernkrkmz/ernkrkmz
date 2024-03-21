@@ -14,7 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp;
   https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz&layout=compact&theme=vision-friendly-dark
 -->
-https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
