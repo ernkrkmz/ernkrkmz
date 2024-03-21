@@ -13,7 +13,7 @@
 <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp;
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
