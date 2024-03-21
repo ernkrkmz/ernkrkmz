@@ -5,9 +5,12 @@
   </a>
 </div>
 <br>
-### :hammer_and_wrench: Languages and Tools :
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernkrkmz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ernkrkmz/ernkrkmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
