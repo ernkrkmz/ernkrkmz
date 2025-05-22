@@ -1,7 +1,10 @@
 ### Hi there 👋
 <div>
   <p>
-    I am a 4th-year Computer engineering student at İstanbul Aydın University. During my university studies, I gained skills in various programming languages and concepts, including - Algorithms and Programming with Python, Object-Oriented Programming with Java, Data Structures with C#, Operating systems, Computer Networks etc. Now, I have been focusing on iOS development, and i am determined to continue my career in this field.
+    Computer Engineer / IOS Developer
+  </p>
+  <p>
+    I work at : Neon Apps
   </p>
 </div>
 <div id="badges">
